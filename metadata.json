@@ -1,0 +1,6 @@
+{
+  "name": "Horus-Artemis: Moon to Mars Adventure",
+  "description": "An educational 2D narrative-adventure game for the NASA Space Apps Challenge where an astronaut mentor and three young explorers explore the Moon and Mars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
